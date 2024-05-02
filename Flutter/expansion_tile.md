@@ -31,12 +31,12 @@ class _SampleExpansionTileState extends State<SampleExpansionTile> {
 }
 ```
 
-<img src="../img/expansion_tile.gif" width=300>
+<img src="img/expansion_tile.gif" width=300>
 
 
 ### Expande 됐을 때 노출되는 Border 삭제하기
 
-<img src="../img/expansion_tile_border.png" width=300>
+<img src="img/expansion_tile_border.png" width=300>
 
 
 - `Theme`의 `divderColor`를 변경해주어야 함, border 있는 게 디폴트인듯  
