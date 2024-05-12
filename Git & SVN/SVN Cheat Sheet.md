@@ -36,6 +36,7 @@ svn log -r [revision number] -v
 - 업데이트를 받다 보면 충돌이 나는 경우가 있음, 아래의 순서대로 충돌을 해결하면 됨
 
 1. 충돌 확인하기
+
 ![](img/svn_conflict_log.png)
 
 2. (df)를 통해 충돌난 코드를 확인하고 (p)를 통해 머지 연기하기
